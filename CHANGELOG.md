@@ -6,6 +6,11 @@
 ​
 ## [Unreleased]​
 ​
+## [2.1.0] - 2024-01-20​
+​
+### Added​
+- Додано функцію `greet()` для персоналізованих привітань​
+​
 ## [2.0.0] - 2024-01-15​
 ​
 ### Changed​
@@ -28,9 +33,10 @@
 - Додано функцію `hello()`​
 - Додано базову документацію​
 ​
-[Unreleased]: https://github.com/username/repo/compare/v2.0.0...HEAD​
+[Unreleased]: https://github.com/username/repo/compare/v2.1.0...HEAD​
+[2.1.0]: https://github.com/username/repo/compare/v2.0.0...v2.1.0​
 [2.0.0]: https://github.com/username/repo/compare/v1.1.1...v2.0.0​
 [1.1.1]: https://github.com/username/repo/compare/v1.1.0...v1.1.1​
 [1.1.0]: https://github.com/username/repo/compare/v1.0.0...v1.1.0​
 [1.0.0]: https://github.com/username/repo/tag/v1.0.0​
-EOF
+EOF​
