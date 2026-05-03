@@ -1,1 +1,1 @@
-"function hello() { return 'Hello'; }" 
+"function hello() { return 'Hello World!'; }" 
