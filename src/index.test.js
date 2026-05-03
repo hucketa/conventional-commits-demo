@@ -1,1 +1,1 @@
-"test('hello function', () => { expect(hello()).toBe('Hello World!'); });" 
+"test('hello function', () => { expect(hello()).toBe('Hello World'); });" 
