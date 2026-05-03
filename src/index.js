@@ -1,1 +1,1 @@
-"function hello(namey) { return \`Hello, \${namey}!\`; }" 
+"function hello(name) { return \`Hello, \${name}!\`; }" 
